@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there 👋
+<p align="center">
 I am a student at UTN - Programming Technician
 
 <!--
