@@ -1,10 +1,10 @@
-[![MasterHead](https://app-tipps.com/wp-content/uploads/2023/06/banner-github-1024x538.png)]([https://rishavchanda.io](https://app-tipps.com))
+
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate fullstack developer from Argentina."Programming Student, Tech Enthusiast, and Constantly Growing in the IT Development World"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasbogado&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasbogado" /> </p>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasbogado" alt="nicolasbogado" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/4Zh-1cRCrRkAAAAC/coding.gif">
+
  
 - 🔭 I’m currently working on **personal´s project´s**
  
